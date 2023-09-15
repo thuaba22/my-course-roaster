@@ -1,0 +1,74 @@
+[
+  {
+    "course_id": "CSE101",
+    "image_url": "https://i.ibb.co/f2XszMJ/python-oop.jpg",
+    "title": "Python Object-Oriented Programming",
+    "details": "Learn the fundamentals of object-oriented programming in Python.",
+    "price": 23000,
+    "credit_hours": 3
+  },
+  {
+    "course_id": "CSE102",
+    "image_url": "https://i.ibb.co/gmb1Gzt/mysql.jpg",
+    "title": "MySQL Database Management",
+    "details": "Master the essentials of MySQL database management and administration.",
+    "price": 35000,
+    "credit_hours": 4
+  },
+  {
+    "course_id": "CSE103",
+    "image_url": "https://i.ibb.co/NTbkWx5/c-programming.jpg",
+    "title": "C Programming for Beginners",
+    "details": "Get started with C programming and build a strong foundation.",
+    "price": 26000,
+    "credit_hours": 3
+  },
+  {
+    "course_id": "CSE104",
+    "image_url": "https://i.ibb.co/1dTPwwx/algorithm.jpg",
+    "title": "Algorithm Design and Analysis",
+    "details": "Learn advanced algorithms and their analysis techniques.",
+    "price": 16000,
+    "credit_hours": 5
+  },
+  {
+    "course_id": "CSE105",
+    "image_url": "https://i.ibb.co/nRYszqL/cpp.jpg",
+    "title": "C++ Programming Mastery",
+    "details": "Become proficient in C++ programming and object-oriented concepts.",
+    "price": 15000,
+    "credit_hours": 4
+  },
+  {
+    "course_id": "CSE106",
+    "image_url": "https://i.ibb.co/Wpy4PG6/software-engineering.jpg",
+    "title": "Software Engineering Principles",
+    "details": "Explore the principles and methodologies of software engineering.",
+    "price": 10000,
+    "credit_hours": 6
+  },
+  {
+    "course_id": "CSE107",
+    "image_url": "https://i.ibb.co/S7HL54L/data-structure.jpg",
+    "title": "Data Structures and Algorithms",
+    "details": "Study essential data structures and algorithms for efficient coding.",
+    "price": 13000,
+    "credit_hours": 5
+  },
+  {
+    "course_id": "CSE108",
+    "image_url": "https://i.ibb.co/Bz2Tszq/aws-cloud.jpg",
+    "title": "AWS Cloud Computing Fundamentals",
+    "details": "Learn the basics of cloud computing with Amazon Web Services (AWS).",
+    "price": 28000,
+    "credit_hours": 3
+  },
+  {
+    "course_id": "CSE109",
+    "image_url": "https://i.ibb.co/Wx7NxbQ/network-security.jpg",
+    "title": "Network Security Essentials",
+    "details": "Gain expertise in network security and cyber threat mitigation.",
+    "price": 21000,
+    "credit_hours": 6
+  }
+]
