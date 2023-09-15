@@ -1,23 +1,23 @@
 [
   {
     "course_id": "CSE101",
-    "image_url": "https://i.ibb.co/f2XszMJ/python-oop.jpg",
-    "title": "Python Object-Oriented Programming",
+    "image_url": "https://i.postimg.cc/1tDrtGmC/Rectangle-2.png",
+    "title": "Introduction to OOP Python",
     "details": "Learn the fundamentals of object-oriented programming in Python.",
     "price": 23000,
     "credit_hours": 3
   },
   {
     "course_id": "CSE102",
-    "image_url": "https://i.ibb.co/gmb1Gzt/mysql.jpg",
-    "title": "MySQL Database Management",
-    "details": "Master the essentials of MySQL database management and administration.",
+    "image_url": "https://i.postimg.cc/gJc2XddC/Rectangle-2-1.png",
+    "title": "Database (MySQL)",
+    "details": "Master the essentials of MySQL database management",
     "price": 35000,
     "credit_hours": 4
   },
   {
     "course_id": "CSE103",
-    "image_url": "https://i.ibb.co/NTbkWx5/c-programming.jpg",
+    "image_url": "https://i.postimg.cc/3wYKV7yk/Rectangle-2-2.png",
     "title": "C Programming for Beginners",
     "details": "Get started with C programming and build a strong foundation.",
     "price": 26000,
@@ -25,7 +25,7 @@
   },
   {
     "course_id": "CSE104",
-    "image_url": "https://i.ibb.co/1dTPwwx/algorithm.jpg",
+    "image_url": "https://i.postimg.cc/G2Sd4yXD/Rectangle-2-3.png",
     "title": "Algorithm Design and Analysis",
     "details": "Learn advanced algorithms and their analysis techniques.",
     "price": 16000,
@@ -33,7 +33,7 @@
   },
   {
     "course_id": "CSE105",
-    "image_url": "https://i.ibb.co/nRYszqL/cpp.jpg",
+    "image_url": "https://i.postimg.cc/h4zf9DVn/Rectangle-2-4.png",
     "title": "C++ Programming Mastery",
     "details": "Become proficient in C++ programming and object-oriented concepts.",
     "price": 15000,
@@ -41,31 +41,31 @@
   },
   {
     "course_id": "CSE106",
-    "image_url": "https://i.ibb.co/Wpy4PG6/software-engineering.jpg",
-    "title": "Software Engineering Principles",
+    "image_url": "https://i.postimg.cc/v8VZ4PdH/Rectangle-2-5.png",
+    "title": "Software Engineering",
     "details": "Explore the principles and methodologies of software engineering.",
     "price": 10000,
     "credit_hours": 6
   },
   {
     "course_id": "CSE107",
-    "image_url": "https://i.ibb.co/S7HL54L/data-structure.jpg",
-    "title": "Data Structures and Algorithms",
+    "image_url": "https://i.postimg.cc/L53dzgTv/Rectangle-2-6.png",
+    "title": "Problem-Solving Part",
     "details": "Study essential data structures and algorithms for efficient coding.",
     "price": 13000,
     "credit_hours": 5
   },
   {
     "course_id": "CSE108",
-    "image_url": "https://i.ibb.co/Bz2Tszq/aws-cloud.jpg",
-    "title": "AWS Cloud Computing Fundamentals",
+    "image_url": "https://i.postimg.cc/TPM9XNGL/Rectangle-3.png",
+    "title": "AWS Cloud Computing",
     "details": "Learn the basics of cloud computing with Amazon Web Services (AWS).",
     "price": 28000,
     "credit_hours": 3
   },
   {
     "course_id": "CSE109",
-    "image_url": "https://i.ibb.co/Wx7NxbQ/network-security.jpg",
+    "image_url": "https://i.postimg.cc/CKhRDbsr/Rectangle-3-1.png",
     "title": "Network Security Essentials",
     "details": "Gain expertise in network security and cyber threat mitigation.",
     "price": 21000,
