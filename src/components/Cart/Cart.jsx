@@ -24,8 +24,8 @@ const Cart = ({
         Total Credit Hour : {totalCredits}
       </p>
       <hr />
-      <p className="text-[#1C1B1BCC] font-medium text-sm mt-4 mb-4">
-        Total Price : {totalPrice}$
+      <p className="text-[#1C1B1BCC] font-semibold text-sm mt-4 mb-4">
+        Total Price : {totalPrice}USD
       </p>
     </div>
   );
