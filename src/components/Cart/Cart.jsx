@@ -25,7 +25,7 @@ const Cart = ({
       </p>
       <hr />
       <p className="text-[#1C1B1BCC] font-semibold text-sm mt-4 mb-4">
-        Total Price : {totalPrice}USD
+        Total Price : {totalPrice} USD
       </p>
     </div>
   );
